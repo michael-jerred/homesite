@@ -1,0 +1,12 @@
+﻿{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "noResolve": true,
+    "removeComments": false,
+    "target": "es5"
+  },
+  "files": [
+    "/client",
+    "/typings"
+  ]
+}

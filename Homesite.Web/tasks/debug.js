@@ -41,7 +41,7 @@ var paths = (function () {
         srcHtml: [srcRoot + '/**/*.html', '!' + srcIndex],
         srcLess: [srcRoot + '/**/*.less', '!' + srcRoot + '/**/*.release.less'],
         srcTs: [srcRoot + '/**/*.ts'],
-        srcFonts: ['./bower_components/bootstrap/dist/fonts/*.*', './bower_components/font-awesome/fonts/*.*'],
+        srcFonts: ['./bower_components/bootstrap/dist/fonts/*.*'],
         srcImg: [srcRoot + '/images/**/*'],
 
         dest: buildRoot,
