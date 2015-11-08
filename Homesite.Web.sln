@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Homesite.Web", "Homesite.Web\Homesite.Web.xproj", "{B47FF163-51D1-4E95-AA71-3F967639B133}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B9B6AFB3-0E4C-4FF3-8058-6EFD8A41B21C}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B47FF163-51D1-4E95-AA71-3F967639B133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47FF163-51D1-4E95-AA71-3F967639B133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47FF163-51D1-4E95-AA71-3F967639B133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47FF163-51D1-4E95-AA71-3F967639B133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

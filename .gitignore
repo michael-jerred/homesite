@@ -1,0 +1,9 @@
+﻿bower_components/
+node_modules/
+typings/
+wwwroot/
+.vs/
+artifacts/
+*.user
+*.orig
+project.lock.json
